@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="20.2508">
+<testcase classname="Validating all Functions of Adactin Application" name="Validating login function of AdactIn with Valid Username and Valid Password" time="20.2508">
+<system-out><![CDATA[Given I am on a Adactin page on Chrome Browser..............................passed
+When I need to enter Username and Password..................................passed
+And I need to click Login button............................................passed
+Then I need to verify the Home page Screen appear or not....................passed
+When I need to select Location , Hotel , Room Type , No of rooms............passed
+And Enter checkin date and Checkout date....................................passed
+Then I need to select Adults per room and Childrens per room................passed
+And I need to click Search button...........................................passed
+Then I need to verify whether browser navigated to payment page.............passed
+When I need to select the booking and click continue........................passed
+Then I need to check browser navigated to next page.........................passed
+When I need to enter Firstname , lastname , Address and Credit Card No......passed
+And Select card type , Expiry date and Expiry year..........................passed
+Then I need to enter Cvv no and click book now..............................passed
+Then I need to check browser navigated to next page.........................passed
+When I need to click itenarary and navigte to next page.....................passed
+When Need to print the ID...................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
